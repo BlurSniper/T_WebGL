@@ -32,8 +32,3 @@ npm run build
 - [ ] GLSL partials
 
 # Resources
-
-- [learnopengl.com/Advanced-Lighting/Deferred-Shading](https://learnopengl.com/Advanced-Lighting/Deferred-Shading)
-- [marcinignac.com/blog/deferred-rendering-explained](http://marcinignac.com/blog/deferred-rendering-explained/)
-- [blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
-- [www.youtube.com/watch?v=K2rs7K4y_sY](https://www.youtube.com/watch?v=K2rs7K4y_sY)
